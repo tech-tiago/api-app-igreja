@@ -1,8 +1,8 @@
 [
   {
     "title": "PARÓQUIA NOSSA SENHORA DA SAÚDE",
-    "massSchedule": "Domingo às 08:30h • 10:00h • 19:30h",
-    "adorationSchedule": "Quinta-feira às 18:00h",
+    "massSchedule": " • Domingo às 08:30h, 10:00h, 19:30h",
+    "adorationSchedule": " • Quinta-feira às 18:00h",
     "address": "Rua Espirito Santo, Av. Bahia, 01 - Mirante Mundaí",
     "location": {
       "latitude": -16.40452,
@@ -11,8 +11,8 @@
   },
   {
     "title": "COMUNIDADE SANTO ANTÔNIO",
-    "massSchedule": "Sábado às 19:00h\nDomingo às 07:00h",
-    "adorationSchedule": "Terça-feira às 18:00h",
+    "massSchedule": " • Sábado às 19:00h\n • Domingo às 07:00h",
+    "adorationSchedule": " • Terça-feira às 18:00h",
     "address": "Rua Ararai, 92 - Paraíso dos Pataxós",
     "location": {
       "latitude": -16.37891,
@@ -21,8 +21,8 @@
   },
   {
     "title": "COMUNIDADE SANT'ANA E SÃO JOAQUIM",
-    "massSchedule": "Domingo às 17:30h",
-    "adorationSchedule": "Quarta-feira às 18:00h",
+    "massSchedule": " • Domingo às 17:30h",
+    "adorationSchedule": " • Quarta-feira às 18:00h",
     "address": "Eixo Acácias, Village III",
     "location": {
       "latitude": -16.38521,
