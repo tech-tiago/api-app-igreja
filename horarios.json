@@ -8,7 +8,6 @@
       "latitude": -16.40452,
       "longitude": -39.05223
     }
-    "notificationEnabled": false
   },
   {
     "title": "COMUNIDADE SANTO ANTÔNIO",
@@ -19,7 +18,6 @@
       "latitude": -16.37891,
       "longitude": -39.03338
     }
-    "notificationEnabled": false
   },
   {
     "title": "COMUNIDADE SANT'ANA E SÃO JOAQUIM",
@@ -30,6 +28,5 @@
       "latitude": -16.38521,
       "longitude": -39.04952
     }
-    "notificationEnabled": false
   }
 ]
