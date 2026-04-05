@@ -1,32 +1,65 @@
 [
   {
-    "title": "PARÓQUIA NOSSA SENHORA DA SAÚDE",
-    "massSchedule": " • Quinta-feira às 19:00h\n • Domingo às 08:30h, 10:00h, 19:30h",
-    "adorationSchedule": " • Quinta-feira às 18:00h",
+    "id": "1",
+    "name": "PARÓQUIA NOSSA SENHORA DA SAÚDE",
     "address": "Rua Espirito Santo, Av. Bahia, 01 - Mirante Mundaí",
     "location": {
       "latitude": -16.40452,
       "longitude": -39.05223
-    }
+    },
+    "mass_times": [
+      "19:00 (Quinta-feira)",
+      "08:30 (Domingo)",
+      "10:00 (Domingo)",
+      "19:30 (Domingo)"
+    ],
+    "adoration_times": [
+      "18:00 (Quinta-feira)"
+    ],
+    "phone": "(73) 99804-9945",
+    "email": "paroquiansradasaude_ps@gmail.com",
+    "instagram": "@paroquiansradasaude_ps",
+    "description": "Paróquia Nossa Senhora da Saúde - Matriz da região"
   },
   {
-    "title": "COMUNIDADE SANTO ANTÔNIO",
-    "massSchedule": " • Terça-feira às 19:00h\n • Sábado às 19:00h\n • Domingo às 07:00h",
-    "adorationSchedule": " • Terça-feira às 18:00h",
+    "id": "2",
+    "name": "COMUNIDADE SANTO ANTÔNIO",
     "address": "Rua Ararai, 92 - Paraíso dos Pataxós",
     "location": {
       "latitude": -16.37891,
       "longitude": -39.03338
-    }
+    },
+    "mass_times": [
+      "19:00 (Terça-feira)",
+      "19:00 (Sábado)",
+      "07:00 (Domingo)"
+    ],
+    "adoration_times": [
+      "18:00 (Terça-feira)"
+    ],
+    "phone": "(73) 99804-9945",
+    "email": "paroquiansradasaude_ps@gmail.com",
+    "instagram": "@paroquiansradasaude_ps",
+    "description": "Comunidade Santo Antônio"
   },
   {
-    "title": "COMUNIDADE SANT'ANA E SÃO JOAQUIM",
-    "massSchedule": " • Quarta-feira às 19:00h\n • Domingo às 17:30h",
-    "adorationSchedule": " • Quarta-feira às 18:00h",
+    "id": "3",
+    "name": "COMUNIDADE SANT'ANA E SÃO JOAQUIM",
     "address": "Eixo Acácias, Village III",
     "location": {
       "latitude": -16.38521,
       "longitude": -39.04952
-    }
+    },
+    "mass_times": [
+      "19:00 (Quarta-feira)",
+      "17:30 (Domingo)"
+    ],
+    "adoration_times": [
+      "18:00 (Quarta-feira)"
+    ],
+    "phone": "(73) 99804-9945",
+    "email": "paroquiansradasaude_ps@gmail.com",
+    "instagram": "@paroquiansradasaude_ps",
+    "description": "Comunidade Sant'Ana e São Joaquim"
   }
 ]
