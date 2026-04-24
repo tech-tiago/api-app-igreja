@@ -2,7 +2,7 @@
   {
     "id": "1",
     "name": "PARÓQUIA NOSSA SENHORA DA SAÚDE",
-    "address": "Rua Espirito Santo, Av. Bahia, 01 - Mirante Mundaí",
+    "address": "Rua Espirito Santo, Av. Bahia, 01 - Alto do Mundaí",
     "location": {
       "latitude": -16.404554,
       "longitude": -39.05166
@@ -16,6 +16,15 @@
     "adoration_times": [
       "18:00 (Quinta-feira)"
     ],
+    "confession_times": [
+      "Antes da missa, 18:00 (Quinta-feira)"
+    ],
+    "secretary_hours": [
+      "08:00 às 12:00 (Segunda a Sexta)",
+      "14:00 às 17:00 (Segunda a Sexta)",
+      "08:00 às 11:00 (Sábado)"
+    ],
+    "is_verified": true,
     "phone": "(73) 99804-9945",
     "email": "paroquiansradasaude_ps@gmail.com",
     "instagram": "@paroquiansradasaude_ps",
@@ -37,10 +46,18 @@
     "adoration_times": [
       "18:00 (Terça-feira)"
     ],
+    "confession_times": [
+      "Antes da missa, 18:00 (Terça-feira)"
+    ],
+    "secretary_hours": [
+      "Atendimento na matriz",
+      "Consultar horários via telefone"
+    ],
+    "is_verified": true,
     "phone": "(73) 99804-9945",
     "email": "paroquiansradasaude_ps@gmail.com",
     "instagram": "@paroquiansradasaude_ps",
-    "description": "Comunidade Santo Antônio"
+    "description": "Comunidade Santo Antônio ligada a matriz Nossa Senhora da Saúde"
   },
   {
     "id": "3",
@@ -57,10 +74,18 @@
     "adoration_times": [
       "18:00 (Quarta-feira)"
     ],
+    "confession_times": [
+      "Antes da missa, 18:00 (Quarta-feira)"
+    ],
+    "secretary_hours": [
+      "Atendimento na matriz",
+      "Consultar horários via telefone"
+    ],
+    "is_verified": true,
     "phone": "(73) 99804-9945",
     "email": "paroquiansradasaude_ps@gmail.com",
     "instagram": "@paroquiansradasaude_ps",
-    "description": "Comunidade Sant'Ana e São Joaquim"
+    "description": "Comunidade Sant'Ana e São Joaquim ligada a matriz Nossa Senhora da Saúde"
   },
   {
     "id": "4",
@@ -77,8 +102,17 @@
       "19:00 (Domingo)"
     ],
     "adoration_times": [
-      "18:30 (Quarta-feira)"
+      "18:30 (Quinta-feira)"
     ],
+    "confession_times": [
+      "Antes da missa, 18:00 (Domingo)",
+      "Durante a adoração, 18:30 (Quinta-feira)"
+    ],
+    "secretary_hours": [
+      "07:00 às 11:00 (Segunda a Sexta)",
+      "13:00 às 17:00 (Segunda a Sexta)"
+    ],
+    "is_verified": false,
     "phone": "(73) 3575-1268",
     "email": "paroquiavaleverde@gmail.com",
     "instagram": "@paroquiadivinodovaleverde",
