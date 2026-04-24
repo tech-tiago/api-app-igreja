@@ -61,5 +61,27 @@
     "email": "paroquiansradasaude_ps@gmail.com",
     "instagram": "@paroquiansradasaude_ps",
     "description": "Comunidade Sant'Ana e São Joaquim"
+  },
+  {
+    "id": "4",
+    "name": "PARÓQUIA DIVINO ESPÍRITO SANTO",
+    "address": "Praça Divino Espírito Santo, s/nº Centro, Distrito de Vale Verde, Porto Seguro -  BA",
+    "location": {
+      "latitude": -16.4256586,
+      "longitude": -39.2166122
+    },
+    "mass_times": [
+      "19:00 (Segunda-feira)",
+      "09:00 (Sábado)",
+      "06:30 (Domingo)",
+      "19:00 (Domingo)"
+    ],
+    "adoration_times": [
+      "18:30 (Quarta-feira)"
+    ],
+    "phone": "(73) 3575-1268",
+    "email": "paroquiavaleverde@gmail.com",
+    "instagram": "@paroquiadivinodovaleverde",
+    "description": "Paróquia Divino Espírito Santo - Matriz da região"
   }
 ]
