@@ -145,33 +145,5 @@
     "email": "paroquiavaleverde@gmail.com",
     "instagram": "@paroquiadivinodovaleverde",
     "description": "Pertence a matriz Paróquia Divino Espírito Santo"
-  },
-  {
-    "id": "6",
-    "name": "COMUNIDADE SÃO JOÃO BATISTA",
-    "address": "Praça da Agrovila, Distrito de Vale Verde, Porto Seguro -  BA",
-    "location": {
-      "latitude": -16.4324067,
-      "longitude": -39.2009349
-    },
-    "mass_times": [
-      "19:00 (Sexta-feira)",
-      "08:00 (Domingo)"
-    ],
-    "adoration_times": [
-      "18:30 (Quinta-feira)"
-    ],
-    "confession_times": [
-      "Durante a adoração, 18:00 (Sexta-feira)"
-    ],
-    "secretary_hours": [
-      "Atendimento na matriz",
-      "Consultar horários via telefone"
-    ],
-    "is_verified": false,
-    "phone": "(73) 3575-1268",
-    "email": "paroquiavaleverde@gmail.com",
-    "instagram": "@paroquiadivinodovaleverde",
-    "description": "Pertence a matriz Paróquia Divino Espírito Santo"
   }
 ]
