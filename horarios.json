@@ -1,5 +1,5 @@
 [
-  {
+{
     "id": "1",
     "name": "PARÓQUIA NOSSA SENHORA DA SAÚDE",
     "address": "Rua Espirito Santo, Av. Bahia, 01 - Alto do Mundaí",
@@ -9,26 +9,32 @@
     },
     "mass_times": [
       "19:00 (Quinta-feira)",
+      "19:40 (Sábado)",
       "08:30 (Domingo)",
-      "10:00 (Domingo)",
       "19:30 (Domingo)"
     ],
     "adoration_times": [
       "18:00 (Quinta-feira)"
     ],
     "confession_times": [
-      "Antes da missa, 18:00 (Quinta-feira)"
+      "18:00 (Quinta-feira)"
     ],
     "secretary_hours": [
-      "08:00 às 12:00 (Segunda a Sexta)",
-      "14:00 às 17:00 (Segunda a Sexta)",
-      "08:00 às 11:00 (Sábado)"
+      "08:00 às 12:00 (Segunda a Sexta)"
     ],
     "is_verified": true,
     "phone": "(73) 99804-9945",
     "email": "paroquiansradasaude_ps@gmail.com",
     "instagram": "@paroquiansradasaude_ps",
-    "description": "Igreja matriz da região"
+    "description": "Igreja matriz da região",
+    "agenda": [
+      { "type": "Adoração", "day_of_week": 4, "time": "18:00", "label": "Adoração ao Santíssimo" },
+      { "type": "Missa", "day_of_week": 4, "time": "19:40", "label": "Missa de Cura e Libertação" },
+      { "type": "Missa", "day_of_week": 6, "time": "16:30", "label": "Missa Vespertina" },
+      { "type": "Missa", "day_of_week": 7, "time": "08:30", "label": "Missa Dominical" },
+      { "type": "Missa", "day_of_week": 7, "time": "10:00", "label": "Missa Dominical" },
+      { "type": "Missa", "day_of_week": 7, "time": "19:30", "label": "Missa da Noite" }
+    ]
   },
   {
     "id": "2",
