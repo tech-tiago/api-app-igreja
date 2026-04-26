@@ -9,7 +9,7 @@
     },
     "mass_times": [
       "19:00 (Quinta-feira)",
-      "21:50 (Sábado)",
+      "22:00 (Sábado)",
       "08:30 (Domingo)",
       "19:30 (Domingo)"
     ],
@@ -30,7 +30,7 @@
     "agenda": [
       { "type": "Adoração", "day_of_week": 4, "time": "18:00", "label": "Adoração ao Santíssimo" },
       { "type": "Missa", "day_of_week": 4, "time": "19:40", "label": "Missa de Cura e Libertação" },
-      { "type": "Missa", "day_of_week": 6, "time": "21:50", "label": "Missa Vespertina" },
+      { "type": "Missa", "day_of_week": 6, "time": "22:00", "label": "Missa Vespertina" },
       { "type": "Missa", "day_of_week": 7, "time": "08:30", "label": "Missa Dominical" },
       { "type": "Missa", "day_of_week": 7, "time": "10:00", "label": "Missa Dominical" },
       { "type": "Missa", "day_of_week": 7, "time": "19:30", "label": "Missa da Noite" }
