@@ -31,7 +31,7 @@
       { "type": "Adoração", "day_of_week": 4, "time": "18:00", "label": "Adoração ao Santíssimo" },
       { "type": "Missa", "day_of_week": 4, "time": "19:40", "label": "Missa de Cura e Libertação" },
       { "type": "Missa", "day_of_week": 6, "time": "19:30", "label": "Missa Vespertina" },
-      { "type": "Missa", "day_of_week": 7, "time": "00:15", "label": "Missa Dominical" },
+      { "type": "Missa", "day_of_week": 7, "time": "00:30", "label": "Missa Dominical" },
       { "type": "Missa", "day_of_week": 7, "time": "10:00", "label": "Missa Dominical" },
       { "type": "Missa", "day_of_week": 7, "time": "19:30", "label": "Missa da Noite" }
     ]
